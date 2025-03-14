@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ZacharyPRO or something
 - 👀 I’m interested in Elty
 - 🌱 I’m currently learning JS and SCSS
-- 💞️ I’m looking to collaborate on dying
+- 💞️ I’m looking for Eltyyyyyy
 - 📫 How to reach me, the sky
 - 😄 Pronouns: UwU
 - ⚡ Fun fact: I hate Javascript
